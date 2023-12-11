@@ -384,10 +384,9 @@ img {
 
 /*===================== About ==================*/
 .about__img {
-  width: 170px;
+  margin-top: -80px;
   justify-self: center;
   align-self: center;
-  /* border: 1px solid #fff; */
 }
 
 .about__description {
