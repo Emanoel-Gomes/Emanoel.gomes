@@ -384,7 +384,6 @@ img {
 
 /*===================== About ==================*/
 .about__img {
-  margin-top: -80px;
   justify-self: center;
   align-self: center;
 }
@@ -912,6 +911,9 @@ width: 50%;
 
   .project__img {
     width: 200px;
+  }
+  .about__img {
+    width: 300px;
   }
 }
 
